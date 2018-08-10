@@ -1,22 +1,19 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Hospital Management System
+  i18n:
+  img: /static/assets/img/landing/h.jpg
+  desc: An app that allows administrators to store and update the information of appointments, wards, illness, patients, and doctors.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Insight UBC
+  i18n:
+  img: /static/assets/img/landing/i.png
+  desc: A web app that supports various complex EBNF queries via command line and returns information about courses offerings and buildings at UBC.
+
+
+- name: Transit System
+  i18n:
+  img: /static/assets/img/landing/java.jpg
+  desc: An app that allows users to search the when the next bus will arrive based on their location.
