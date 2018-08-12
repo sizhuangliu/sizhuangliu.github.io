@@ -3,7 +3,7 @@
 # Website settings
 title: Sizhuang
 description: sizhuang's website,use Jekyll and github pages.
-keywords: Sizhuang,Jalpc,blog,Jekyll,github,gh-pages
+keywords: Sizhuang,Jekyll,github
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://sizhuangliu.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /sizhuangliu/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -27,7 +27,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc1: 4th-year student majoring in computer science.
+  desc2: I am a quick learner and a task-oriented person.Regardless of working independently or in a team, I can always finish the tasks assigned in a timely manner..  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -44,7 +45,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
