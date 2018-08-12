@@ -27,8 +27,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc1: 4th-year student majoring in computer science.
-  desc2: I am a quick learner and a task-oriented person.Regardless of working independently or in a team, I can always finish the tasks assigned in a timely manner..  # Describe yourself.
+  desc1: '4th-year student majoring in computer science.'
+  desc2: 'I am a quick learner and a task-oriented person.Regardless of working independently or in a team, I can always finish the tasks assigned in a timely manner.'  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
