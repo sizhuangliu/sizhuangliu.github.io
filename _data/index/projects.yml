@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Hospital Management System
   i18n:
-  url: https://www.ugrad.cs.ubc.ca/~e2k0b/index.php
+  #url: https://www.ugrad.cs.ubc.ca/~e2k0b/index.php
   img: /static/assets/img/landing/h.jpg
   desc: An app that allows administrators to store and update the information of appointments, wards, illness, patients, and doctors.
 
@@ -18,3 +18,8 @@
   i18n:
   img: /static/assets/img/landing/java.jpg
   desc: An app that allows users to search the when the next bus will arrive based on their location.
+
+- name: Mystic Crusaders
+  i18n:
+  img: /static/assets/img/landing/hero.png
+  desc: A 2-D video RPG game that allows users to keyboard and mouse to control the player. The game uses OpenGL to render the animation. The game code supporting continuing execution and graceful termination.

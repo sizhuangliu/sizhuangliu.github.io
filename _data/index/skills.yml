@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, PHP, HTML5, SQL Database, Machine Learing, Java, TypeScript
-percentage: 100, 85, 65, 80, 40, 90, 80
+aspects: GitHub, PHP, HTML5, SQL Database, C++, Java, TypeScript, OpenGL
+percentage: 90, 85, 65, 80, 100, 90, 80, 70
