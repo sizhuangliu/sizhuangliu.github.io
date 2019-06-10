@@ -13,7 +13,7 @@ author:  # change following line to your infomation.
   name: Sizhuang Liu  # Be used at blog posts' author.
   first_name: Sizhuang  # Be used at index page about me section.
   last_name: Liu  # Be used at index page about me section.
-  avatar: sizhuangliu.github.io/static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Sizhuangliu  # Leave blank if you don't have now
   #linkedin_id:  # Leave blank if you don't have now
   #facebook_username:   # Leave blank if you don't have now
