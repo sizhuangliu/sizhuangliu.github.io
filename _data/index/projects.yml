@@ -17,13 +17,14 @@
   i18n:
   img: /static/assets/img/landing/design.png
   desc: A Chrome extension includes my personal websites, using HTML.
+  
+- name: Transit System
+  i18n:
+  img: /static/assets/img/landing/java.jpg
+  desc: An app that allows users to search the when the next bus will arrive based on their location.
 
 - name: Insight UBC
   i18n:
   img: /static/assets/img/landing/ubc.jpg
   desc: A web app that supports various complex EBNF queries via command line and returns information about courses offerings and buildings at UBC.
 
-- name: Transit System
-  i18n:
-  img: /static/assets/img/landing/java.jpg
-  desc: An app that allows users to search the when the next bus will arrive based on their location.
