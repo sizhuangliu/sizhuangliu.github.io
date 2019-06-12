@@ -1,7 +1,11 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-
+- name: Personal Chrome Extension
+  i18n:
+  img: /static/assets/img/landing/design.png
+  desc: A Chrome extension includes my personal websites, using HTML.
+  
 - name: Mystic Crusaders
   i18n:
   img: /static/assets/img/landing/hero.png
@@ -11,20 +15,14 @@
   i18n: 
   #url: https://www.ugrad.cs.ubc.ca/~e2k0b/index.php
   img: /static/assets/img/landing/h.jpg
-  desc: An app that allows administrators to store and update the information of appointments, wards, illness, patients, and doctors.                                                                                       
-
-- name: Personal Chrome Extension
-  i18n:
-  img: /static/assets/img/landing/design.png
-  desc: A Chrome extension includes my personal websites, using HTML.
-  
-- name: Transit System
-  i18n:
-  img: /static/assets/img/landing/java.jpg
-  desc: An app that allows users to search the when the next bus will arrive based on their location.
+  desc: An app that allows administrators to store and update the information of appointments, wards, illness, patients, and doctors. 
 
 - name: Insight UBC
   i18n:
   img: /static/assets/img/landing/ubc.jpg
   desc: A web app that supports various complex EBNF queries via command line and returns information about courses offerings and buildings at UBC.
 
+- name: Transit System
+  i18n:
+  img: /static/assets/img/landing/java.jpg
+  desc: An app that allows users to search the when the next bus will arrive based on their location.
