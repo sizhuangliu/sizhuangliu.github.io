@@ -28,9 +28,7 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
 
-  desc1: 'As a fresh computer science graduate, I am actively looking for new opportunities.'
-  desc2: 'I like writing computer games, but my personal interests are not only that.'
-  desc3: ' Web development and automated testing are also my interested area.'  # Describe yourself.
+  desc: 'As a fresh computer science graduate, I am actively looking for new opportunities. I like writing computer games, but my personal interests are not only that. Web development and automated testing are also my interested area.'  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
