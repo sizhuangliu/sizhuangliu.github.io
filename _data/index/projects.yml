@@ -10,7 +10,7 @@
 - name: Personal Chrome Extension
   i18n:
   img: /static/assets/img/landing/design.png
-  desc: A Chrome extension includes my personal websites, Using HTML.
+  desc: A Chrome extension includes my personal websites, using HTML.
 
 - name: Hospital Management System
   i18n: 
