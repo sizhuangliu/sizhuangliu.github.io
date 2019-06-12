@@ -15,8 +15,8 @@ author:  # change following line to your infomation.
   last_name: Liu  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Sizhuangliu  # Leave blank if you don't have now
-  #linkedin_id:  # Leave blank if you don't have now
-  #facebook_username:   # Leave blank if you don't have now
+  linkedin_id:  sizhuangliu  # Leave blank if you don't have now
+  facebook_username: sizhuangl # Leave blank if you don't have now
   #twitter_username:   # Leave blank if you don't have now
   email: liusizhuang@gmail.com   # Leave blank if you don't have now
   #cv:   # An online CV can be printed as PDF, leave blank if you don't have now
@@ -27,8 +27,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc1: '4th-year student majoring in computer science.'
-  desc2: 'I am a quick learner and a task-oriented person.Regardless of working independently or in a team, I can always finish the tasks assigned in a timely manner.'  # Describe yourself.
+  desc1: 'As a fresh computer science graduate, I am actively looking for new opportunities.'
+  desc2: 'I like writing computer games, but my personal interests are not only that. Web development and automated testing are also my interested area.'  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
