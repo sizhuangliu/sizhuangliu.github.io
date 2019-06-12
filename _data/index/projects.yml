@@ -20,7 +20,7 @@
 
 - name: Insight UBC
   i18n:
-  img: /static/assets/img/landing/i.png
+  img: /static/assets/img/landing/ubc.jpg
   desc: A web app that supports various complex EBNF queries via command line and returns information about courses offerings and buildings at UBC.
 
 - name: Transit System
